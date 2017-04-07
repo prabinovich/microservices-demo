@@ -13,6 +13,7 @@ import javax.persistence.Table;
  * relational database.
  * 
  * @author Paul Chapman
+ * ---Testing
  */
 @Entity
 @Table(name = "T_ACCOUNT")
